@@ -17,7 +17,7 @@ Evil monsters like **Minotaur**, **Medusa**, and **Hydra** have broken through t
 
 ## 🛠 Technical Details
 
-- **Platform**: iPhone with iOS 14 or higher.  
+- **Platform**: iPhone with iOS 15.3 or higher.  
 - **Technologies**:
   - **KMP (Kotlin Multiplatform)**: for building a cross-platform application.  
   - **Data Store**: for storing local data.  
